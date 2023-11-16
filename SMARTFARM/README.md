@@ -45,5 +45,5 @@ To run the Smart Farming Platform, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/smart-farming-platform.git
+   git clone https://github.com/your-username/PLD1.git
 
