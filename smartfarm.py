@@ -143,7 +143,7 @@ class SmartFarmingPlatform:
             elif choice == "5":
                 self.display_notifications()
             elif choice == "6":
-                print(f"Thank you for exploring Smart Farming. Have a great day!")
+                print(f"Thank you for exploring our Smart Farming Platform. Have a great day!")
                 break
             else:
                 print("Invalid choice. Please enter a number from 1 to 6.\n")
